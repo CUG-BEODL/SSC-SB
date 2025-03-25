@@ -2,6 +2,9 @@
 
 This repository contains the implementation of **SSC-SB (Semantic Similarity Contrast-based Street Block Monitoring)**, a contrastive learning-based approach for monitoring street block development and renewal using **Sentinel-2 time series imagery**.  
 
+![image](https://github.com/user-attachments/assets/985c36f0-1a70-4351-b706-9b04ac1a5b52)
+
+
 ---
 
 ## **Pipeline**  
@@ -18,6 +21,9 @@ Once the model is trained or pre-trained weights are downloaded, run:
 python blockMonitoring.py
 ```  
 This will generate the SSC-SB monitoring results.  
+![image](https://github.com/user-attachments/assets/26c1655e-166d-409d-8046-1910f0dfd7de)
+
+![image](https://github.com/user-attachments/assets/efa0e060-b8d7-43cc-aef9-8833b653770b)
 
 ---
 
